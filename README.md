@@ -4,14 +4,14 @@ The College Management Software is a comprehensive web application designed to m
 
 Key Features:
 
-Student Module:
+Student Module:-
 Enables the management of student enrollment, attendance, grades, and academic progress.
 
-Teacher Module:
+Teacher Module:-
 Facilitates the tracking of faculty details, schedules, and course allocations.
 
-Course Module:
+Course Module:-
 Allows for the creation and management of course curriculums, timetables, and exam schedules.
 
-Admin Module:
+Admin Module:-
 Provides tools for managing user roles, permissions, and overall system maintenance.
