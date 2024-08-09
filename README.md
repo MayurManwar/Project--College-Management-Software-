@@ -1,6 +1,6 @@
 Project Description:
 
-The College Management System is a comprehensive web application designed to manage the various aspects of a college’s academic and administrative functions. The system provides a centralized platform for managing student records, faculty information, course structures, and overall college hierarchy. The application was developed with a focus on creating a user-friendly interface and ensuring seamless interaction between different modules.
+The College Management Software is a comprehensive web application designed to manage the various aspects of a college’s academic and administrative functions. The system provides a centralized platform for managing student records, faculty information, course structures, and overall college hierarchy. The application was developed with a focus on creating a user-friendly interface and ensuring seamless interaction between different modules.
 
 Key Features:
 
